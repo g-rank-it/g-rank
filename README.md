@@ -1,0 +1,2 @@
+# g-rank
+Gooning Ranked
